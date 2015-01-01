@@ -1,0 +1,394 @@
+[
+    {
+        "id": "Thing",
+        "label": "Thing"
+    },
+    {
+        "id": "Weapon",
+        "label": "Weapon"
+    },
+    {
+        "id": "Car",
+        "label": "Car"
+    },
+    {
+        "id": "PassengerAircraft",
+        "label": "PassengerAircraft"
+    },
+    {
+        "id": "NarrowBody",
+        "label": "NarrowBody"
+    },
+    {
+        "id": "WideBody",
+        "label": "WideBody"
+    },
+    {
+        "id": "RailWayTransport",
+        "label": "RailWayTransport"
+    },
+    {
+        "id": "LocomotiveUnit",
+        "label": "LocomotiveUnit"
+    },
+    {
+        "id": "FreightTrain",
+        "label": "FreightTrain"
+    },
+    {
+        "id": "PassengerTrain",
+        "label": "PassengerTrain"
+    },
+    {
+        "id": "OnRoadAndOffRoadVehicle",
+        "label": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "id": "Truck",
+        "label": "Truck"
+    },
+    {
+        "id": "Bike",
+        "label": "Bike"
+    },
+    {
+        "id": "Car",
+        "label": "Car"
+    },
+    {
+        "id": "Motorcycle",
+        "label": "Motorcycle"
+    },
+    {
+        "id": "Bus",
+        "label": "Bus"
+    },
+    {
+        "id": "Vessel",
+        "label": "Vessel"
+    },
+    {
+        "id": "HoverCraft",
+        "label": "HoverCraft"
+    },
+    {
+        "id": "FighterAircraft",
+        "label": "FighterAircraft"
+    },
+    {
+        "id": "Wagon",
+        "label": "Wagon"
+    },
+    {
+        "id": "FreightWagon",
+        "label": "FreightWagon"
+    },
+    {
+        "id": "PassengerWagon",
+        "label": "PassengerWagon"
+    },
+    {
+        "id": "Axile",
+        "label": "Axile"
+    },
+    {
+        "id": "Diesel",
+        "label": "Diesel"
+    },
+    {
+        "id": "RotorSystem",
+        "label": "RotorSystem"
+    },
+    {
+        "id": "Sprocket",
+        "label": "Sprocket"
+    },
+    {
+        "id": "Engine",
+        "label": "Engine"
+    },
+    {
+        "id": "Steam",
+        "label": "Steam"
+    },
+    {
+        "id": "ICE",
+        "label": "ICE"
+    },
+    {
+        "id": "ElectricEngine",
+        "label": "ElectricEngine"
+    },
+    {
+        "id": "Diesel",
+        "label": "Diesel"
+    },
+    {
+        "id": "Wheel",
+        "label": "Wheel"
+    },
+    {
+        "id": "Passenger",
+        "label": "Passenger"
+    },
+    {
+        "id": "CargoAircraft",
+        "label": "CargoAircraft"
+    },
+    {
+        "id": "Pilot",
+        "label": "Pilot"
+    },
+    {
+        "id": "Cargo",
+        "label": "Cargo"
+    },
+    {
+        "id": "More_Cargo",
+        "label": "More_Cargo"
+    },
+    {
+        "id": "Aircraft",
+        "label": "Aircraft"
+    },
+    {
+        "id": "WingAircraft",
+        "label": "WingAircraft"
+    },
+    {
+        "id": "Helicopter",
+        "label": "Helicopter"
+    },
+    {
+        "id": "FighterAircraft",
+        "label": "FighterAircraft"
+    },
+    {
+        "id": "CargoAircraft",
+        "label": "CargoAircraft"
+    },
+    {
+        "id": "PassengerAircraft",
+        "label": "PassengerAircraft"
+    },
+    {
+        "id": "NarrowBody",
+        "label": "NarrowBody"
+    },
+    {
+        "id": "WideBody",
+        "label": "WideBody"
+    },
+    {
+        "id": "FixedWing",
+        "label": "FixedWing"
+    },
+    {
+        "id": "ShipAndVessel",
+        "label": "ShipAndVessel"
+    },
+    {
+        "id": "Boat",
+        "label": "Boat"
+    },
+    {
+        "id": "Vessel",
+        "label": "Vessel"
+    },
+    {
+        "id": "Cruiser",
+        "label": "Cruiser"
+    },
+    {
+        "id": "Driver",
+        "label": "Driver"
+    },
+    {
+        "id": "Vehicle",
+        "label": "Vehicle"
+    },
+    {
+        "id": "ShipAndVessel",
+        "label": "ShipAndVessel"
+    },
+    {
+        "id": "Boat",
+        "label": "Boat"
+    },
+    {
+        "id": "Vessel",
+        "label": "Vessel"
+    },
+    {
+        "id": "Cruiser",
+        "label": "Cruiser"
+    },
+    {
+        "id": "Aircraft",
+        "label": "Aircraft"
+    },
+    {
+        "id": "WingAircraft",
+        "label": "WingAircraft"
+    },
+    {
+        "id": "Helicopter",
+        "label": "Helicopter"
+    },
+    {
+        "id": "FighterAircraft",
+        "label": "FighterAircraft"
+    },
+    {
+        "id": "CargoAircraft",
+        "label": "CargoAircraft"
+    },
+    {
+        "id": "PassengerAircraft",
+        "label": "PassengerAircraft"
+    },
+    {
+        "id": "NarrowBody",
+        "label": "NarrowBody"
+    },
+    {
+        "id": "WideBody",
+        "label": "WideBody"
+    },
+    {
+        "id": "OnRoadAndOffRoadVehicle",
+        "label": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "id": "Truck",
+        "label": "Truck"
+    },
+    {
+        "id": "Bike",
+        "label": "Bike"
+    },
+    {
+        "id": "Car",
+        "label": "Car"
+    },
+    {
+        "id": "Motorcycle",
+        "label": "Motorcycle"
+    },
+    {
+        "id": "Bus",
+        "label": "Bus"
+    },
+    {
+        "id": "RailWayTransport",
+        "label": "RailWayTransport"
+    },
+    {
+        "id": "LocomotiveUnit",
+        "label": "LocomotiveUnit"
+    },
+    {
+        "id": "FreightTrain",
+        "label": "FreightTrain"
+    },
+    {
+        "id": "PassengerTrain",
+        "label": "PassengerTrain"
+    },
+    {
+        "id": "Wing",
+        "label": "Wing"
+    },
+    {
+        "id": "FixedWing",
+        "label": "FixedWing"
+    },
+    {
+        "id": "People",
+        "label": "People"
+    },
+    {
+        "id": "Pilot",
+        "label": "Pilot"
+    },
+    {
+        "id": "Passenger",
+        "label": "Passenger"
+    },
+    {
+        "id": "Driver",
+        "label": "Driver"
+    },
+    {
+        "id": "VehicleComponent",
+        "label": "VehicleComponent"
+    },
+    {
+        "id": "Wing",
+        "label": "Wing"
+    },
+    {
+        "id": "FixedWing",
+        "label": "FixedWing"
+    },
+    {
+        "id": "Wagon",
+        "label": "Wagon"
+    },
+    {
+        "id": "FreightWagon",
+        "label": "FreightWagon"
+    },
+    {
+        "id": "PassengerWagon",
+        "label": "PassengerWagon"
+    },
+    {
+        "id": "Wheel",
+        "label": "Wheel"
+    },
+    {
+        "id": "Sprocket",
+        "label": "Sprocket"
+    },
+    {
+        "id": "RotorSystem",
+        "label": "RotorSystem"
+    },
+    {
+        "id": "Engine",
+        "label": "Engine"
+    },
+    {
+        "id": "Steam",
+        "label": "Steam"
+    },
+    {
+        "id": "ICE",
+        "label": "ICE"
+    },
+    {
+        "id": "ElectricEngine",
+        "label": "ElectricEngine"
+    },
+    {
+        "id": "Diesel",
+        "label": "Diesel"
+    },
+    {
+        "id": "Weapon",
+        "label": "Weapon"
+    },
+    {
+        "id": "Rotor",
+        "label": "Rotor"
+    },
+    {
+        "id": "Body",
+        "label": "Body"
+    },
+    {
+        "id": "Axile",
+        "label": "Axile"
+    }
+]

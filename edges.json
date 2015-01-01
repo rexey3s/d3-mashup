@@ -1,0 +1,227 @@
+[
+    {
+        "NarrowBody": "PassengerAircraft"
+    },
+    {
+        "WideBody": "PassengerAircraft"
+    },
+    {
+        "LocomotiveUnit": "RailWayTransport"
+    },
+    {
+        "FreightTrain": "RailWayTransport"
+    },
+    {
+        "PassengerTrain": "RailWayTransport"
+    },
+    {
+        "Truck": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Bike": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Car": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Motorcycle": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Bus": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Thing": "HoverCraft"
+    },
+    {
+        "FreightWagon": "Wagon"
+    },
+    {
+        "PassengerWagon": "Wagon"
+    },
+    {
+        "Steam": "Engine"
+    },
+    {
+        "ICE": "Engine"
+    },
+    {
+        "ElectricEngine": "Engine"
+    },
+    {
+        "Diesel": "Engine"
+    },
+    {
+        "Thing": "Cargo"
+    },
+    {
+        "More_Cargo": "Cargo"
+    },
+    {
+        "WingAircraft": "Aircraft"
+    },
+    {
+        "Helicopter": "Aircraft"
+    },
+    {
+        "FighterAircraft": "Aircraft"
+    },
+    {
+        "CargoAircraft": "Aircraft"
+    },
+    {
+        "PassengerAircraft": "Aircraft"
+    },
+    {
+        "NarrowBody": "PassengerAircraft"
+    },
+    {
+        "WideBody": "PassengerAircraft"
+    },
+    {
+        "Boat": "ShipAndVessel"
+    },
+    {
+        "Vessel": "ShipAndVessel"
+    },
+    {
+        "Cruiser": "ShipAndVessel"
+    },
+    {
+        "Thing": "Vehicle"
+    },
+    {
+        "ShipAndVessel": "Vehicle"
+    },
+    {
+        "Boat": "ShipAndVessel"
+    },
+    {
+        "Vessel": "ShipAndVessel"
+    },
+    {
+        "Cruiser": "ShipAndVessel"
+    },
+    {
+        "Aircraft": "Vehicle"
+    },
+    {
+        "WingAircraft": "Aircraft"
+    },
+    {
+        "Helicopter": "Aircraft"
+    },
+    {
+        "FighterAircraft": "Aircraft"
+    },
+    {
+        "CargoAircraft": "Aircraft"
+    },
+    {
+        "PassengerAircraft": "Aircraft"
+    },
+    {
+        "NarrowBody": "PassengerAircraft"
+    },
+    {
+        "WideBody": "PassengerAircraft"
+    },
+    {
+        "OnRoadAndOffRoadVehicle": "Vehicle"
+    },
+    {
+        "Truck": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Bike": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Car": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Motorcycle": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "Bus": "OnRoadAndOffRoadVehicle"
+    },
+    {
+        "RailWayTransport": "Vehicle"
+    },
+    {
+        "LocomotiveUnit": "RailWayTransport"
+    },
+    {
+        "FreightTrain": "RailWayTransport"
+    },
+    {
+        "PassengerTrain": "RailWayTransport"
+    },
+    {
+        "FixedWing": "Wing"
+    },
+    {
+        "Thing": "People"
+    },
+    {
+        "Pilot": "People"
+    },
+    {
+        "Passenger": "People"
+    },
+    {
+        "Driver": "People"
+    },
+    {
+        "Thing": "VehicleComponent"
+    },
+    {
+        "Wing": "VehicleComponent"
+    },
+    {
+        "FixedWing": "Wing"
+    },
+    {
+        "Wagon": "VehicleComponent"
+    },
+    {
+        "FreightWagon": "Wagon"
+    },
+    {
+        "PassengerWagon": "Wagon"
+    },
+    {
+        "Wheel": "VehicleComponent"
+    },
+    {
+        "Sprocket": "VehicleComponent"
+    },
+    {
+        "RotorSystem": "VehicleComponent"
+    },
+    {
+        "Engine": "VehicleComponent"
+    },
+    {
+        "Steam": "Engine"
+    },
+    {
+        "ICE": "Engine"
+    },
+    {
+        "ElectricEngine": "Engine"
+    },
+    {
+        "Diesel": "Engine"
+    },
+    {
+        "Weapon": "VehicleComponent"
+    },
+    {
+        "Rotor": "VehicleComponent"
+    },
+    {
+        "Body": "VehicleComponent"
+    },
+    {
+        "Axile": "VehicleComponent"
+    }
+]
